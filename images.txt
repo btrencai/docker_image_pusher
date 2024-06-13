@@ -1,1 +1,3 @@
 xhofe/alist
+hectorqin/reader
+imaegoo/twikoo:latest
